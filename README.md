@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">Engineering student at Federal University of Itajubá, specializing in Computer Engineering. Currently working as Desktop Manager at Asimov Jr., developing web solutions. Passionate about technology and continuous learning.</h4>
+<h4 align="left">Engineering student at Federal University of Itajubá, specializing in Computer Engineering. Currently working as Desktop Manager at Asimov Jr., developing web solutions. Also conducting scientific research in data science, analyzing extreme precipitation events. Passionate about technology and continuous learning.</h4>
 
 ###
 
-<p align="left">• 🔭 I’m currently working on: Developing web solutions at Asimov Jr. using Angular and Firebase.<br>• 🌱 I’m looking to collaborate on: Web development projects involving Angular, Tailwind CSS, and Firebase.<br>• 👯 I’m looking for help with: Improving my backend development skills, especially with RESTful APIs and cloud services.<br>• 🤝 I’m currently learning: Angular, Python, and Firebase.<br>• 📫 How to reach me: pedrolcrisp@gmail.com</p>
+<p align="left">• 🔭 I’m currently working on: Developing web solutions at Asimov Jr. using Angular and Firebase, and conducting research in data science at my university.<br>• 🌱 I’m looking to collaborate on: Web and data science projects.<br>• 👯 I’m looking for help with: Improving my backend development skills, especially with RESTful APIs and cloud services.<br>• 🤝 I’m currently learning: Angular, Python, and Firebase.<br>• 📫 How to reach me: pedrolcrisp@gmail.com</p>
 
 ###
 
@@ -17,21 +17,21 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
