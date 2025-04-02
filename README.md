@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Engineering student at the Federal University of Itajubá, specializing in Computer Engineering. Currently work as a Desktop Developer at Asimov Jr., developing web solutions. Previously, worked as a Desktop Manager at the same company. Also conducting scientific research in data science, analyzing extreme precipitation events. Passionate about technology and continuous learning.</h4>
+<h4 align="left">Engineering student at the Federal University of Itajubá, specializing in Computer Engineering. Currently working as a Desktop Developer at Asimov Jr., developing web solutions. Previously, worked as a Desktop Manager at the same company. Also conducting scientific research in data science, analyzing extreme precipitation events. Passionate about technology and continuous learning.</h4>
 
 ###
 
