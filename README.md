@@ -13,7 +13,7 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 As a 4th-year Computer Engineering student at UNIFEI, I am developing a dual expertise in Full-Stack Development (Node.js, Angular) and Data Science (Python). My goal is to leverage the synergy between these fields to build end-to-end technological solutions, from application architecture to the strategic analysis of the data they generate.
 
