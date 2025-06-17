@@ -1,48 +1,29 @@
-<h1 align="left">About me</h1>
+# 👋 Hi, I'm Pedro Crisp!
 
-###
+### Full-Stack Developer & Data Scientist | Node.js, Angular, Python | Award-Winning Leadership
 
-<h4 align="left">Engineering student at the Federal University of Itajubá, specializing in Computer Engineering. Currently working as a Desktop Developer at Asimov Jr., developing web solutions. Previously, worked as a Desktop Manager at the same company. Also conducting scientific research in data science, analyzing extreme precipitation events. Passionate about technology and continuous learning.</h4>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrolcrisp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pedrolcrisp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-###
+---
 
-<p align="left">• 🔭 I’m currently working on: Developing web solutions at Asimov Jr. using Angular and Firebase, and conducting research in data science at my university.<br>• 🌱 I’m looking to collaborate on: Web and data science projects.<br>• 👯 I’m looking for help with: Improving my backend development skills, especially with RESTful APIs and cloud services.<br>• 🤝 I’m currently learning: Angular, Python, and Firebase.<br>• 📫 How to reach me: pedrolcrisp@gmail.com</p>
+### About Me
 
-###
+As a 4th-year Computer Engineering student at UNIFEI, I am developing a dual expertise in Full-Stack Development (Node.js, Angular) and Data Science (Python). My goal is to leverage the synergy between these fields to build end-to-end technological solutions, from application architecture to the strategic analysis of the data they generate.
 
-<h1 align="left">Techs</h1>
+My experience at Asimov Jr. as Web Development Manager was focused on restructuring the team to optimize delivery and quality. I implemented a clearer project lifecycle with an emphasis on planning and documentation, and fostered a culture of knowledge transfer that empowered the team's autonomy. I'm proud that this work led to our team being recognized as "Area of the Month" and to me, personally, as "Member of the Month".
 
-###
+In my undergraduate research, I apply my data skills to develop a Python library for analyzing extreme precipitation events. A crucial step in this project was creating an automated data acquisition pipeline, which I developed through direct contact with government agencies to ensure the quality and relevance of our analysis.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-</div>
+---
 
-###
-
-<h1 align="left">Stats:</h1>
+### 📊 My GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://nirzak-streak-stats.vercel.app/?user=plcrisp&theme=dark&hide_border=false"><br/>
@@ -51,15 +32,36 @@
 
 ###
 
-<h1 align="left">Social media</h1>
+---
 
-###
+### 🛠️ Tech & Tools
 
-<div align="left">
-  <a href="pedrolcrisp@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,postgres,mongodb,firebase,postman,figma,notion,html,css,sass,javascript,typescript,angular,react,nodejs,express,python,c,cpp,java,pandas,numpy,matplotlib,seaborn,jupyter" />
   </a>
-  <a href="https://www.instagram.com/pl_crisp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">Python Library for Precipitation Analysis</h4>
+      <p align="center">
+        Undergraduate research project focused on analyzing data from extreme weather events. The library includes an automated data pipeline and uses Pandas and NumPy for statistical manipulation and analysis.
+        <br/><br/>
+        <a href="https://github.com/plcrisp/Automatic-IDF-Graphs" target="_blank"><strong>View Repository ➡️</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h4 align="center">Team Management & Revitalization - Asimov Jr.</h4>
+      <p align="center">
+        A leadership case study where I structured processes, implemented Agile methodologies (Scrum), and mentored the development team. This project resulted in recognition awards and a significant increase in team performance.
+        <br/><br/>
+      </p>
+    </td>
+  </tr>
+</table>
