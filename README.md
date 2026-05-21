@@ -26,8 +26,7 @@ In my undergraduate research, I apply my data skills to develop a Python library
 ### 📊 My GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=plcrisp&theme=dark&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plcrisp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://streak-stats.demolab.com?user=plcrisp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
