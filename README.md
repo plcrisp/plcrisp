@@ -1,66 +1,70 @@
 # 👋 Hi, I'm Pedro Crisp!
 
-### Full-Stack Developer & Data Scientist | Node.js, Angular, Python | Award-Winning Leadership
+### **Software Engineer | Leveraging Applied Data Science to elevate Full-Stack development**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedrolcrisp/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pedrolcrisp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrolcrisp)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolcrisp@gmail.com)
 
 ---
 
 ### 👨‍💻 About Me
 
-As a 4th-year Computer Engineering student at UNIFEI, I am developing a dual expertise in Full-Stack Development (Node.js, Angular) and Data Science (Python). My goal is to leverage the synergy between these fields to build end-to-end technological solutions, from application architecture to the strategic analysis of the data they generate.
+**Currently**
+- **Computer Engineering student** at UNIFEI (Expected graduation: 2027.2).
+- **Actively seeking a Software Engineering Internship** where I can apply my full-stack background and data analysis skills.
+- **Developing my Senior Thesis** (Expected defense: Dec 2026): Architecting a full-stack platform for extreme precipitation analysis.
 
-My experience at Asimov Jr. as Web Development Manager was focused on restructuring the team to optimize delivery and quality. I implemented a clearer project lifecycle with an emphasis on planning and documentation, and fostered a culture of knowledge transfer that empowered the team's autonomy. I'm proud that this work led to our team being recognized as "Area of the Month" and to me, personally, as "Member of the Month".
-
-In my undergraduate research, I apply my data skills to develop a Python library for analyzing extreme precipitation events. A crucial step in this project was creating an automated data acquisition pipeline, which I developed through direct contact with government agencies to ensure the quality and relevance of our analysis.
+**Background**
+- **Software Engineering Intern & Tech Lead @ ArborizAI:** Developed automated ETL pipelines with LLM-based evaluation and led a remote sensing system integration using Google Earth Engine.
+- **Academic Exchange @ Montanuniversität Leoben (Austria):** Built a grasp-pose detection system for a robotic arm using ROS 2 and computer vision, presenting the project to Cyber-Physical Systems researchers.
+- **Former Web Development Manager @ Asimov Jr.:** led an 8-person team, cut a 12-week project delivery to 7 weeks, recognized as "Member of the Month"
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity & Tech Focus
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com?user=plcrisp&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=plcrisp&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&theme=transparent&count_private=true"
+    height="165"
+    alt="plcrisp GitHub Stats"
+    hspace="40"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=4&theme=transparent&card_width=400"
+    height="165"
+    alt="plcrisp Top Languages"
+  />
 </div>
 
 ###
 
 ---
 
-### 🛠️ Tech & Tools
+### 💻 Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,postgres,mongodb,firebase,postman,figma,notion,html,css,sass,javascript,typescript,angular,react,nodejs,express,python,c,cpp,java,pandas,numpy,matplotlib,seaborn,jupyter" />
-  </a>
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+**Web Development**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🚀 Featured Projects
+**Databases, DevOps & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescaledb&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">Python Library for Precipitation Analysis</h4>
-      <p align="center">
-        Undergraduate research project focused on analyzing data from extreme weather events. The library includes an automated data pipeline and uses Pandas and NumPy for statistical manipulation and analysis.
-        <br/><br/>
-        <a href="https://github.com/plcrisp/Automatic-IDF-Graphs" target="_blank"><strong>View Repository ➡️</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h4 align="center">Team Management & Revitalization - Asimov Jr.</h4>
-      <p align="center">
-        A leadership case study where I structured processes, implemented Agile methodologies (Scrum), and mentored the development team. This project resulted in recognition awards and a significant increase in team performance.
-        <br/><br/>
-      </p>
-    </td>
-  </tr>
-</table>
+**Data Science & Analysis**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
