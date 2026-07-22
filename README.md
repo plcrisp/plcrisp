@@ -25,13 +25,12 @@
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=plcrisp&rank_icon=default&hide_rank=true&show_icons=true&theme=transparent&count_private=true&include_all_commits=true"
+    src="https://streak-stats.demolab.com?user=plcrisp&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=300"
     alt="plcrisp GitHub Stats"
-    hspace="40"
     align="center"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=plcrisp&langs_count=3&theme=transparent&hide=jupyter%20notebook,javascript"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=plcrisp&langs_count=3&theme=transparent&hide=jupyter%20notebook,javascript&hide_border=true"
     alt="plcrisp Top Languages"
     align="center"
   />
