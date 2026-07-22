@@ -25,15 +25,15 @@
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=plcrisp&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&theme=transparent&count_private=true"
-    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=plcrisp&rank_icon=default&hide_rank=true&show_icons=true&theme=transparent&count_private=true&include_all_commits=true"
     alt="plcrisp GitHub Stats"
     hspace="40"
+    align="center"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=4&theme=transparent&card_width=400"
-    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=plcrisp&langs_count=3&theme=transparent&hide=jupyter%20notebook,javascript"
     alt="plcrisp Top Languages"
+    align="center"
   />
 </div>
 
