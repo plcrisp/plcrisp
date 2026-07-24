@@ -15,7 +15,7 @@
 - **Developing my Senior Thesis** (Expected defense: Dec 2026): Architecting a full-stack platform for extreme precipitation analysis.
 
 **Background**
-- **Software Engineering Intern & Tech Lead @ ArborizAI:** Developed automated ETL pipelines with LLM-based evaluation and led a remote sensing system integration using Google Earth Engine.
+- **Software Engineering Intern & Tech Lead @ ArborizAI:** Developed automated ETL pipelines with LLM-based extraction and led a remote sensing system integration using Google Earth Engine.
 - **Academic Exchange @ Montanuniversität Leoben (Austria):** Built a grasp-pose detection system for a robotic arm using ROS 2 and computer vision, presenting the project to Cyber-Physical Systems researchers.
 - **Former Web Development Manager @ Asimov Jr.:** led an 8-person team, cut a 12-week project delivery to 7 weeks, recognized as "Member of the Month"
 
